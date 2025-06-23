@@ -6,7 +6,7 @@
 
 ## 💾 Download
 
-To get started, head over to the [**Releases**](https://github.com/your-repo/releases) section to:
+To get started, head over to the [**Releases**](https://github.com/Synthfax/Cosnary-Windows/releases) section to:
 
 - 📦 **Download the latest `.exe`** for Windows  
 - 🛠 Or **get the full source code** if you want to build or modify the app
